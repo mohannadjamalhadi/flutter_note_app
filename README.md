@@ -1,16 +1,17 @@
 # flutter_note_app
 
-A new Flutter project.
+Features to Implement:
 
-## Getting Started
+UI for Adding Notes:
 
-This project is a starting point for a Flutter application.
+A simple text input field for the note's content.
+A 'Save' button to add the note to a list.
+Display Notes:
 
-A few resources to get you started if this is your first Flutter project:
+A scrollable list to display all the notes.
+Each note item should show a preview of the note content.
+Delete Functionality:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add a 'Delete' button or swipe-to-delete gesture for each note in the list.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
